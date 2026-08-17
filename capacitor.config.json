@@ -1,0 +1,13 @@
+{
+  "appId": "com.monopolybanker.app",
+  "appName": "Monopoly Banker",
+  "webDir": "dist",
+  "backgroundColor": "#050414",
+  "android": {
+    "backgroundColor": "#050414",
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
